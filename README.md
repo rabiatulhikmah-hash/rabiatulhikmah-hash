@@ -1,16 +1,23 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm Rabiatul Hikmah 🌼</h2>
 
-<!--
-**rabiatulhikmah-hash/rabiatulhikmah-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67bf2880-b1e3-4971-9469-c4682771afed" width="300"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>Just a student trying to grow—slowly but surely</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+I enjoy exploring web development and diving into data, trying to understand how it can be turned into something meaningful. Sometimes I get stuck, sometimes confused, but I always come back to try again.  
+
+Currently focusing on data science while continuing to build simple and useful projects.  
+Not chasing perfection, just progress.  
+
+
+
+---
+
+*Hoping one day I can work, live, and explore the world through tech 🌏✨*
