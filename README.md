@@ -14,7 +14,6 @@ I enjoy exploring web development and diving into data, trying to understand how
 Currently focusing on data science while continuing to build simple and useful projects.  
 Not chasing perfection, just progress.  
 
----
 
 <p align="center">
   <i>--- Hoping to grow my skills and explore the world through tech 🌏✨ ---</i>
