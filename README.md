@@ -20,4 +20,4 @@ Not chasing perfection, just progress.
 
 ---
 
-*Hoping one day I can work, live, and explore the world through tech 🌏✨*
+*Hoping to grow my skills and explore the world through tech 🌏✨*
